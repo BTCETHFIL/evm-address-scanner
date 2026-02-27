@@ -1,0 +1,5 @@
+eth-account==0.11.0
+bip32utils==0.3.post4
+mnemonic==0.21
+pycryptodome==3.20.0
+psutil==5.9.8
